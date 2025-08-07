@@ -1,16 +1,32 @@
-## Hi there 👋
+👋 Hi, I'm Vignesh Deenadayalan
 
-<!--
-**vickydgh/vickydgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineer from J.N.N Institute of Engineering  
+☁️ AWS Certified (Cloud Practitioner & Solutions Architect – Associate)  
+💡 Passionate about Cloud Computing, DevOps, AI/ML, and IoT  
+📍 Based in Chennai, India  
+📫 Reach me at: [deenavignesh840@gmail.com](mailto:deenavignesh840@gmail.com)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Skills & Tools
+
+1. **Languages:** Python, C (Basics), SQL (Basics)
+2. **Databases:** MongoDB
+3. **Libraries/Frameworks:** NumPy, Pandas, Scikit-Learn, TensorFlow, Matplotlib
+4. **DevOps Tools:** Docker, Jenkins, Terraform, Kubernetes, GitHub Actions
+5. **Cloud & Platforms:** Amazon Web Services (EC2, S3, RDS, IAM, EKS), GoDaddy
+6. **Others:** Power BI, Shell Scripting, Django, VS Code, PyCharm, Jupyter
+
+📂 GitHub Repositories
+Feel free to check out my repositories to explore the projects and solutions I've been working on.
+
+🏅 Certifications
+
+- ✅ AWS Cloud Practitioner – Foundational  
+- ✅ AWS Solutions Architect – Associate  
+- ✅ Python (Guvi)  
+- ✅ TCS iON Career Edge – Soft Skills
+
+📎 Links
+
+🔗 [GitHub](https://github.com/vickydgh)  
+🔗 [LinkedIn](https://www.linkedin.com/in/vignesh-deenadayalan-438285278)
