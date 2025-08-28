@@ -1,10 +1,10 @@
-👋 Hi, I'm Vignesh Deenadayalan
+#👋 Hi, I'm Vignesh Deenadayalan
 
-🎓 Computer Science Engineer from J.N.N Institute of Engineering  
-☁️ AWS Certified (Cloud Practitioner & Solutions Architect – Associate)  
-💡 Passionate about Cloud Computing, DevOps, AI/ML, and IoT  
-📍 Based in Chennai, India  
-📫 Reach me at: [deenavignesh840@gmail.com](mailto:deenavignesh840@gmail.com)
+###🎓 Computer Science Engineer from J.N.N Institute of Engineering  
+###☁️ AWS Certified (Cloud Practitioner & Solutions Architect – Associate)  
+###💡 Passionate about Cloud Computing, DevOps, AI/ML, and IoT  
+###📍 Based in Chennai, India  
+###📫 Reach me at: [deenavignesh840@gmail.com](mailto:deenavignesh840@gmail.com)
 
 
 🔧 Skills & Tools
